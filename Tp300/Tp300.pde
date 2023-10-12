@@ -1,3 +1,10 @@
+/*VIDEO 
+Video del celular
+https://www.youtube.com/watch?v=X5ozu5cmqYQ
+Video de la pantalla
+https://meet.google.com/phj-cikg-jqf
+*/
+
 import processing.sound.*;
 import fisica.*;
 import netP5.*;
